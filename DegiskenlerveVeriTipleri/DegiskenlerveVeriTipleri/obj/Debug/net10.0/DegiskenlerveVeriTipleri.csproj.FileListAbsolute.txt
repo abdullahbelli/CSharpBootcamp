@@ -1,0 +1,14 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\bin\Debug\net10.0\DegiskenlerveVeriTipleri.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\bin\Debug\net10.0\DegiskenlerveVeriTipleri.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\bin\Debug\net10.0\DegiskenlerveVeriTipleri.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\bin\Debug\net10.0\DegiskenlerveVeriTipleri.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\bin\Debug\net10.0\DegiskenlerveVeriTipleri.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\obj\Debug\net10.0\DegiskenlerveVeriTipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\obj\Debug\net10.0\DegiskenlerveVeriTipleri.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\obj\Debug\net10.0\DegiskenlerveVeriTipleri.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\obj\Debug\net10.0\DegiskenlerveVeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\obj\Debug\net10.0\DegiskenlerveVeriTipleri.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\obj\Debug\net10.0\refint\DegiskenlerveVeriTipleri.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\obj\Debug\net10.0\DegiskenlerveVeriTipleri.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\obj\Debug\net10.0\DegiskenlerveVeriTipleri.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\DegiskenlerveVeriTipleri\DegiskenlerveVeriTipleri\obj\Debug\net10.0\ref\DegiskenlerveVeriTipleri.dll

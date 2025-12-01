@@ -1,0 +1,14 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\bin\Debug\net10.0\BolmeApp.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\bin\Debug\net10.0\BolmeApp.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\bin\Debug\net10.0\BolmeApp.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\bin\Debug\net10.0\BolmeApp.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\bin\Debug\net10.0\BolmeApp.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\obj\Debug\net10.0\BolmeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\obj\Debug\net10.0\BolmeApp.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\obj\Debug\net10.0\BolmeApp.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\obj\Debug\net10.0\BolmeApp.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\obj\Debug\net10.0\BolmeApp.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\obj\Debug\net10.0\refint\BolmeApp.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\obj\Debug\net10.0\BolmeApp.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\obj\Debug\net10.0\BolmeApp.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BolmeApp\BolmeApp\obj\Debug\net10.0\ref\BolmeApp.dll

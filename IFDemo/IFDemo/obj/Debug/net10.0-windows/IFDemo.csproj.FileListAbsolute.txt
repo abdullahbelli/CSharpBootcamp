@@ -1,0 +1,17 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\bin\Debug\net10.0-windows\IFDemo.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\bin\Debug\net10.0-windows\IFDemo.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\bin\Debug\net10.0-windows\IFDemo.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\bin\Debug\net10.0-windows\IFDemo.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\bin\Debug\net10.0-windows\IFDemo.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\obj\Debug\net10.0-windows\IFDemo.Form1.resources
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\obj\Debug\net10.0-windows\IFDemo.csproj.GenerateResource.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\obj\Debug\net10.0-windows\IFDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\obj\Debug\net10.0-windows\IFDemo.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\obj\Debug\net10.0-windows\IFDemo.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\obj\Debug\net10.0-windows\IFDemo.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\obj\Debug\net10.0-windows\IFDemo.sourcelink.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\obj\Debug\net10.0-windows\IFDemo.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\obj\Debug\net10.0-windows\refint\IFDemo.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\obj\Debug\net10.0-windows\IFDemo.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\obj\Debug\net10.0-windows\IFDemo.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\IFDemo\IFDemo\obj\Debug\net10.0-windows\ref\IFDemo.dll

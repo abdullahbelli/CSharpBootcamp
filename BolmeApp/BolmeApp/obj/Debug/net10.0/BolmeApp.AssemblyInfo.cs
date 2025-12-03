@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BolmeApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd978fc3f790bfc0a76378f751a7d420318fded5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BolmeApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BolmeApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

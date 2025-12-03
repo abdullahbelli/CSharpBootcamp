@@ -1,0 +1,15 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\bin\Debug\net10.0\KararYapilariIF.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\bin\Debug\net10.0\KararYapilariIF.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\bin\Debug\net10.0\KararYapilariIF.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\bin\Debug\net10.0\KararYapilariIF.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\bin\Debug\net10.0\KararYapilariIF.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\obj\Debug\net10.0\KararYapilariIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\obj\Debug\net10.0\KararYapilariIF.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\obj\Debug\net10.0\KararYapilariIF.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\obj\Debug\net10.0\KararYapilariIF.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\obj\Debug\net10.0\KararYapilariIF.sourcelink.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\obj\Debug\net10.0\KararYapilariIF.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\obj\Debug\net10.0\refint\KararYapilariIF.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\obj\Debug\net10.0\KararYapilariIF.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\obj\Debug\net10.0\KararYapilariIF.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\KararYapilariIF\KararYapilariIF\obj\Debug\net10.0\ref\KararYapilariIF.dll

@@ -1,0 +1,15 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\bin\Debug\net10.0\TernaryOperator.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\bin\Debug\net10.0\TernaryOperator.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\bin\Debug\net10.0\TernaryOperator.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\bin\Debug\net10.0\TernaryOperator.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\bin\Debug\net10.0\TernaryOperator.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\obj\Debug\net10.0\TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\obj\Debug\net10.0\TernaryOperator.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\obj\Debug\net10.0\TernaryOperator.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\obj\Debug\net10.0\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\obj\Debug\net10.0\TernaryOperator.sourcelink.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\obj\Debug\net10.0\TernaryOperator.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\obj\Debug\net10.0\refint\TernaryOperator.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\obj\Debug\net10.0\TernaryOperator.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\obj\Debug\net10.0\TernaryOperator.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\TernaryOperator\TernaryOperator\obj\Debug\net10.0\ref\TernaryOperator.dll

@@ -1,0 +1,15 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\bin\Debug\net10.0\ArraysIntro.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\bin\Debug\net10.0\ArraysIntro.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\bin\Debug\net10.0\ArraysIntro.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\bin\Debug\net10.0\ArraysIntro.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\bin\Debug\net10.0\ArraysIntro.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\obj\Debug\net10.0\ArraysIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\obj\Debug\net10.0\ArraysIntro.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\obj\Debug\net10.0\ArraysIntro.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\obj\Debug\net10.0\ArraysIntro.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\obj\Debug\net10.0\ArraysIntro.sourcelink.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\obj\Debug\net10.0\ArraysIntro.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\obj\Debug\net10.0\refint\ArraysIntro.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\obj\Debug\net10.0\ArraysIntro.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\obj\Debug\net10.0\ArraysIntro.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\ArraysIntro\ArraysIntro\obj\Debug\net10.0\ref\ArraysIntro.dll

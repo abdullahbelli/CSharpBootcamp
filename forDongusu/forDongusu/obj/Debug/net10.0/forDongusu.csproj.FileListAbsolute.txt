@@ -1,0 +1,15 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\bin\Debug\net10.0\forDongusu.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\bin\Debug\net10.0\forDongusu.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\bin\Debug\net10.0\forDongusu.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\bin\Debug\net10.0\forDongusu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\bin\Debug\net10.0\forDongusu.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\obj\Debug\net10.0\forDongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\obj\Debug\net10.0\forDongusu.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\obj\Debug\net10.0\forDongusu.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\obj\Debug\net10.0\forDongusu.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\obj\Debug\net10.0\forDongusu.sourcelink.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\obj\Debug\net10.0\forDongusu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\obj\Debug\net10.0\refint\forDongusu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\obj\Debug\net10.0\forDongusu.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\obj\Debug\net10.0\forDongusu.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forDongusu\forDongusu\obj\Debug\net10.0\ref\forDongusu.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\forDongusu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{237423A4-5479-498C-8A55-C83A15C0D0D8}|forDongusu\\forDongusu.csproj|c:\\users\\belli\\onedrive\\desktop\\abdullahbelli\\c#_bootcamp\\fordongusu\\fordongusu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237423A4-5479-498C-8A55-C83A15C0D0D8}|forDongusu\\forDongusu.csproj|solutionrelative:fordongusu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\forDongusu\\forDongusu\\Program.cs",
+              "RelativeDocumentMoniker": "forDongusu\\Program.cs",
+              "ToolTip": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\forDongusu\\forDongusu\\Program.cs",
+              "RelativeToolTip": "forDongusu\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwHcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T17:33:55.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

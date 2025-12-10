@@ -1,0 +1,15 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\bin\Debug\net10.0\doWhileDongusu.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\bin\Debug\net10.0\doWhileDongusu.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\bin\Debug\net10.0\doWhileDongusu.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\bin\Debug\net10.0\doWhileDongusu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\bin\Debug\net10.0\doWhileDongusu.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\obj\Debug\net10.0\doWhileDongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\obj\Debug\net10.0\doWhileDongusu.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\obj\Debug\net10.0\doWhileDongusu.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\obj\Debug\net10.0\doWhileDongusu.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\obj\Debug\net10.0\doWhileDongusu.sourcelink.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\obj\Debug\net10.0\doWhileDongusu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\obj\Debug\net10.0\refint\doWhileDongusu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\obj\Debug\net10.0\doWhileDongusu.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\obj\Debug\net10.0\doWhileDongusu.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\doWhileDongusu\doWhileDongusu\obj\Debug\net10.0\ref\doWhileDongusu.dll

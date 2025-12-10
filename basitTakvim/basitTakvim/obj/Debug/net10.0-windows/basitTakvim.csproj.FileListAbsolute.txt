@@ -1,0 +1,17 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\bin\Debug\net10.0-windows\basitTakvim.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\bin\Debug\net10.0-windows\basitTakvim.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\bin\Debug\net10.0-windows\basitTakvim.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\bin\Debug\net10.0-windows\basitTakvim.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\bin\Debug\net10.0-windows\basitTakvim.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\obj\Debug\net10.0-windows\basitTakvim.Form1.resources
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\obj\Debug\net10.0-windows\basitTakvim.csproj.GenerateResource.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\obj\Debug\net10.0-windows\basitTakvim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\obj\Debug\net10.0-windows\basitTakvim.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\obj\Debug\net10.0-windows\basitTakvim.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\obj\Debug\net10.0-windows\basitTakvim.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\obj\Debug\net10.0-windows\basitTakvim.sourcelink.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\obj\Debug\net10.0-windows\basitTakvim.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\obj\Debug\net10.0-windows\refint\basitTakvim.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\obj\Debug\net10.0-windows\basitTakvim.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\obj\Debug\net10.0-windows\basitTakvim.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\basitTakvim\basitTakvim\obj\Debug\net10.0-windows\ref\basitTakvim.dll

@@ -1,0 +1,15 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\bin\Debug\net10.0\whileDongusu.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\bin\Debug\net10.0\whileDongusu.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\bin\Debug\net10.0\whileDongusu.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\bin\Debug\net10.0\whileDongusu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\bin\Debug\net10.0\whileDongusu.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\obj\Debug\net10.0\whileDongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\obj\Debug\net10.0\whileDongusu.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\obj\Debug\net10.0\whileDongusu.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\obj\Debug\net10.0\whileDongusu.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\obj\Debug\net10.0\whileDongusu.sourcelink.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\obj\Debug\net10.0\whileDongusu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\obj\Debug\net10.0\refint\whileDongusu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\obj\Debug\net10.0\whileDongusu.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\obj\Debug\net10.0\whileDongusu.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\whileDongusu\whileDongusu\obj\Debug\net10.0\ref\whileDongusu.dll

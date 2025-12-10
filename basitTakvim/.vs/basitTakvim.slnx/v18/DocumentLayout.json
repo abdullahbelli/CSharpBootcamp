@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\basitTakvim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA90D4E1-F67C-4A6A-B1FB-2728B0736A01}|basitTakvim\\basitTakvim.csproj|c:\\users\\belli\\onedrive\\desktop\\abdullahbelli\\c#_bootcamp\\basittakvim\\basittakvim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA90D4E1-F67C-4A6A-B1FB-2728B0736A01}|basitTakvim\\basitTakvim.csproj|solutionrelative:basittakvim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA90D4E1-F67C-4A6A-B1FB-2728B0736A01}|basitTakvim\\basitTakvim.csproj|c:\\users\\belli\\onedrive\\desktop\\abdullahbelli\\c#_bootcamp\\basittakvim\\basittakvim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA90D4E1-F67C-4A6A-B1FB-2728B0736A01}|basitTakvim\\basitTakvim.csproj|solutionrelative:basittakvim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\basitTakvim\\basitTakvim\\Form1.cs",
+              "RelativeDocumentMoniker": "basitTakvim\\Form1.cs",
+              "ToolTip": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\basitTakvim\\basitTakvim\\Form1.cs",
+              "RelativeToolTip": "basitTakvim\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:32:26.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\basitTakvim\\basitTakvim\\Form1.cs",
+              "RelativeDocumentMoniker": "basitTakvim\\Form1.cs",
+              "ToolTip": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\basitTakvim\\basitTakvim\\Form1.cs [Design]",
+              "RelativeToolTip": "basitTakvim\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:30:14.651Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

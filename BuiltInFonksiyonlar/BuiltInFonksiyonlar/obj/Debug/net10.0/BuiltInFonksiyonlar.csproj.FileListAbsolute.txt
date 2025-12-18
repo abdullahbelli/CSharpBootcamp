@@ -1,0 +1,15 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\bin\Debug\net10.0\BuiltInFonksiyonlar.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\bin\Debug\net10.0\BuiltInFonksiyonlar.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\bin\Debug\net10.0\BuiltInFonksiyonlar.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\bin\Debug\net10.0\BuiltInFonksiyonlar.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\bin\Debug\net10.0\BuiltInFonksiyonlar.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\obj\Debug\net10.0\BuiltInFonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\obj\Debug\net10.0\BuiltInFonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\obj\Debug\net10.0\BuiltInFonksiyonlar.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\obj\Debug\net10.0\BuiltInFonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\obj\Debug\net10.0\BuiltInFonksiyonlar.sourcelink.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\obj\Debug\net10.0\BuiltInFonksiyonlar.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\obj\Debug\net10.0\refint\BuiltInFonksiyonlar.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\obj\Debug\net10.0\BuiltInFonksiyonlar.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\obj\Debug\net10.0\BuiltInFonksiyonlar.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInFonksiyonlar\BuiltInFonksiyonlar\obj\Debug\net10.0\ref\BuiltInFonksiyonlar.dll

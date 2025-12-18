@@ -1,0 +1,15 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\bin\Debug\net10.0\forEachDongusu.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\bin\Debug\net10.0\forEachDongusu.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\bin\Debug\net10.0\forEachDongusu.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\bin\Debug\net10.0\forEachDongusu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\bin\Debug\net10.0\forEachDongusu.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\obj\Debug\net10.0\forEachDongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\obj\Debug\net10.0\forEachDongusu.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\obj\Debug\net10.0\forEachDongusu.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\obj\Debug\net10.0\forEachDongusu.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\obj\Debug\net10.0\forEachDongusu.sourcelink.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\obj\Debug\net10.0\forEachDongusu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\obj\Debug\net10.0\refint\forEachDongusu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\obj\Debug\net10.0\forEachDongusu.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\obj\Debug\net10.0\forEachDongusu.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\forEachDongusu\forEachDongusu\obj\Debug\net10.0\ref\forEachDongusu.dll

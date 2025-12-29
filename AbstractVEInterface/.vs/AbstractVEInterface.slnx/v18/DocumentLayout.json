@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\AbstractVEInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DEC7F3-9AC0-4CEE-B690-0551AAE24EC0}|AbstractVEInterface\\AbstractVEInterface.csproj|c:\\users\\belli\\onedrive\\desktop\\abdullahbelli\\c#_bootcamp\\abstractveinterface\\abstractveinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DEC7F3-9AC0-4CEE-B690-0551AAE24EC0}|AbstractVEInterface\\AbstractVEInterface.csproj|solutionrelative:abstractveinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DEC7F3-9AC0-4CEE-B690-0551AAE24EC0}|AbstractVEInterface\\AbstractVEInterface.csproj|c:\\users\\belli\\onedrive\\desktop\\abdullahbelli\\c#_bootcamp\\abstractveinterface\\abstractveinterface\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DEC7F3-9AC0-4CEE-B690-0551AAE24EC0}|AbstractVEInterface\\AbstractVEInterface.csproj|solutionrelative:abstractveinterface\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DEC7F3-9AC0-4CEE-B690-0551AAE24EC0}|AbstractVEInterface\\AbstractVEInterface.csproj|c:\\users\\belli\\onedrive\\desktop\\abdullahbelli\\c#_bootcamp\\abstractveinterface\\abstractveinterface\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DEC7F3-9AC0-4CEE-B690-0551AAE24EC0}|AbstractVEInterface\\AbstractVEInterface.csproj|solutionrelative:abstractveinterface\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 10,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Oyuncu.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\AbstractVEInterface\\AbstractVEInterface\\Oyuncu.cs",
+              "RelativeDocumentMoniker": "AbstractVEInterface\\Oyuncu.cs",
+              "ToolTip": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\AbstractVEInterface\\AbstractVEInterface\\Oyuncu.cs",
+              "RelativeToolTip": "AbstractVEInterface\\Oyuncu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA0wCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:07:08.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\AbstractVEInterface\\AbstractVEInterface\\Document.cs",
+              "RelativeDocumentMoniker": "AbstractVEInterface\\Document.cs",
+              "ToolTip": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\AbstractVEInterface\\AbstractVEInterface\\Document.cs",
+              "RelativeToolTip": "AbstractVEInterface\\Document.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:06:50.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\AbstractVEInterface\\AbstractVEInterface\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractVEInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\AbstractVEInterface\\AbstractVEInterface\\Program.cs",
+              "RelativeToolTip": "AbstractVEInterface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:06:30.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

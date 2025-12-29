@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\OOPIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23478FF9-A788-4D96-983F-4300F45A27FF}|OOPIntro\\OOPIntro.csproj|c:\\users\\belli\\onedrive\\desktop\\abdullahbelli\\c#_bootcamp\\oopintro\\oopintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23478FF9-A788-4D96-983F-4300F45A27FF}|OOPIntro\\OOPIntro.csproj|solutionrelative:oopintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23478FF9-A788-4D96-983F-4300F45A27FF}|OOPIntro\\OOPIntro.csproj|c:\\users\\belli\\onedrive\\desktop\\abdullahbelli\\c#_bootcamp\\oopintro\\oopintro\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23478FF9-A788-4D96-983F-4300F45A27FF}|OOPIntro\\OOPIntro.csproj|solutionrelative:oopintro\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 10,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\OOPIntro\\OOPIntro\\Urun.cs",
+              "RelativeDocumentMoniker": "OOPIntro\\Urun.cs",
+              "ToolTip": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\OOPIntro\\OOPIntro\\Urun.cs",
+              "RelativeToolTip": "OOPIntro\\Urun.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:54:25.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\OOPIntro\\OOPIntro\\Program.cs",
+              "RelativeDocumentMoniker": "OOPIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\OOPIntro\\OOPIntro\\Program.cs",
+              "RelativeToolTip": "OOPIntro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:53:01.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

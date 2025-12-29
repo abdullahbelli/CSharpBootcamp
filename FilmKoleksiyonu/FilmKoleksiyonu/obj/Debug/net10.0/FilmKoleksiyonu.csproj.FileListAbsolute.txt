@@ -1,0 +1,15 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\bin\Debug\net10.0\FilmKoleksiyonu.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\bin\Debug\net10.0\FilmKoleksiyonu.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\bin\Debug\net10.0\FilmKoleksiyonu.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\bin\Debug\net10.0\FilmKoleksiyonu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\bin\Debug\net10.0\FilmKoleksiyonu.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\obj\Debug\net10.0\FilmKoleksiyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\obj\Debug\net10.0\FilmKoleksiyonu.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\obj\Debug\net10.0\FilmKoleksiyonu.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\obj\Debug\net10.0\FilmKoleksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\obj\Debug\net10.0\FilmKoleksiyonu.sourcelink.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\obj\Debug\net10.0\FilmKoleksiyonu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\obj\Debug\net10.0\refint\FilmKoleksiyonu.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\obj\Debug\net10.0\FilmKoleksiyonu.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\obj\Debug\net10.0\FilmKoleksiyonu.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\FilmKoleksiyonu\FilmKoleksiyonu\obj\Debug\net10.0\ref\FilmKoleksiyonu.dll

@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\FilmKoleksiyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{377F3A7A-DAA1-4E78-AC70-BD72ECF7006E}|FilmKoleksiyonu\\FilmKoleksiyonu.csproj|c:\\users\\belli\\onedrive\\desktop\\abdullahbelli\\c#_bootcamp\\filmkoleksiyonu\\filmkoleksiyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377F3A7A-DAA1-4E78-AC70-BD72ECF7006E}|FilmKoleksiyonu\\FilmKoleksiyonu.csproj|solutionrelative:filmkoleksiyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377F3A7A-DAA1-4E78-AC70-BD72ECF7006E}|FilmKoleksiyonu\\FilmKoleksiyonu.csproj|c:\\users\\belli\\onedrive\\desktop\\abdullahbelli\\c#_bootcamp\\filmkoleksiyonu\\filmkoleksiyonu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377F3A7A-DAA1-4E78-AC70-BD72ECF7006E}|FilmKoleksiyonu\\FilmKoleksiyonu.csproj|solutionrelative:filmkoleksiyonu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377F3A7A-DAA1-4E78-AC70-BD72ECF7006E}|FilmKoleksiyonu\\FilmKoleksiyonu.csproj|c:\\users\\belli\\onedrive\\desktop\\abdullahbelli\\c#_bootcamp\\filmkoleksiyonu\\filmkoleksiyonu\\filmlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377F3A7A-DAA1-4E78-AC70-BD72ECF7006E}|FilmKoleksiyonu\\FilmKoleksiyonu.csproj|solutionrelative:filmkoleksiyonu\\filmlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377F3A7A-DAA1-4E78-AC70-BD72ECF7006E}|FilmKoleksiyonu\\FilmKoleksiyonu.csproj|c:\\users\\belli\\onedrive\\desktop\\abdullahbelli\\c#_bootcamp\\filmkoleksiyonu\\filmkoleksiyonu\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377F3A7A-DAA1-4E78-AC70-BD72ECF7006E}|FilmKoleksiyonu\\FilmKoleksiyonu.csproj|solutionrelative:filmkoleksiyonu\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 10,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\FilmKoleksiyonu\\FilmKoleksiyonu\\Menu.cs",
+              "RelativeDocumentMoniker": "FilmKoleksiyonu\\Menu.cs",
+              "ToolTip": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\FilmKoleksiyonu\\FilmKoleksiyonu\\Menu.cs",
+              "RelativeToolTip": "FilmKoleksiyonu\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:49:11.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmListesi.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\FilmKoleksiyonu\\FilmKoleksiyonu\\FilmListesi.cs",
+              "RelativeDocumentMoniker": "FilmKoleksiyonu\\FilmListesi.cs",
+              "ToolTip": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\FilmKoleksiyonu\\FilmKoleksiyonu\\FilmListesi.cs",
+              "RelativeToolTip": "FilmKoleksiyonu\\FilmListesi.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwGgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:44:39.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\FilmKoleksiyonu\\FilmKoleksiyonu\\Film.cs",
+              "RelativeDocumentMoniker": "FilmKoleksiyonu\\Film.cs",
+              "ToolTip": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\FilmKoleksiyonu\\FilmKoleksiyonu\\Film.cs",
+              "RelativeToolTip": "FilmKoleksiyonu\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:17:11.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\FilmKoleksiyonu\\FilmKoleksiyonu\\Program.cs",
+              "RelativeDocumentMoniker": "FilmKoleksiyonu\\Program.cs",
+              "ToolTip": "C:\\Users\\belli\\OneDrive\\Desktop\\AbdullahBelli\\C#_Bootcamp\\FilmKoleksiyonu\\FilmKoleksiyonu\\Program.cs*",
+              "RelativeToolTip": "FilmKoleksiyonu\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:08:07.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

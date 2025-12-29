@@ -1,0 +1,15 @@
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net10.0\BuiltInInterfaces.exe
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net10.0\BuiltInInterfaces.deps.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net10.0\BuiltInInterfaces.runtimeconfig.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net10.0\BuiltInInterfaces.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net10.0\BuiltInInterfaces.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net10.0\BuiltInInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net10.0\BuiltInInterfaces.AssemblyInfoInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net10.0\BuiltInInterfaces.AssemblyInfo.cs
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net10.0\BuiltInInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net10.0\BuiltInInterfaces.sourcelink.json
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net10.0\BuiltInInterfaces.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net10.0\refint\BuiltInInterfaces.dll
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net10.0\BuiltInInterfaces.pdb
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net10.0\BuiltInInterfaces.genruntimeconfig.cache
+C:\Users\belli\OneDrive\Desktop\AbdullahBelli\C#_Bootcamp\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net10.0\ref\BuiltInInterfaces.dll
